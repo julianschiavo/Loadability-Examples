@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Loadability",
+        "repositoryURL": "/Users/Julian/Developer/Packages/Loadability",
+        "state": {
+          "branch": "main",
+          "revision": "411958d6fe0fe3ad4aa578d7effb599a413fe82d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
